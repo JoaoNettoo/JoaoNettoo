@@ -21,7 +21,7 @@
 
 📚 Sempre estudando e participando de bootcamps como os da DIO, onde aprendi muito sobre o ecossistema full stack!
 
-📫 Me encontre no LinkedIn: [João Neto](www.linkedin.com/in/devjoaobarbosa)  
+📫 Me encontre no LinkedIn: [João Neto](https://www.linkedin.com/in/devjoaobarbosa/)  
 🌱 Repositórios em destaque abaixo mostram um pouco do que ando fazendo.
 
 ---
